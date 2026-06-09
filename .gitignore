@@ -1,0 +1,16 @@
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+
+# 本项目运行产物
+runs/
+.cache/
+
+# 常见虚拟环境目录
+.venv/
+venv/
+
+# 本地隐私配置文件，里面可以放 API Key，不能提交到 GitHub
+.env
+.env.*
+!.env.example
