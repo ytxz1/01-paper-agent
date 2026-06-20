@@ -245,3 +245,4 @@ python -m paper_agent.cli evaluate runs/interactive
 - [完整开发与排错过程](docs/project_process.md)
 - [简历写法与面试准备指南](docs/resume_interview_guide.md)
 - [Agent 实习简历模板](docs/intern_resume_agent_position.md)
+- [基于简历的面试官提问清单](docs/interviewer_questions_based_on_resume.md)
